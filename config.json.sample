@@ -1,0 +1,16 @@
+{
+	"pivotal": {
+		"token": "[Pivotal Token]"
+	},
+	"trello": {
+		"key": "[Trello Key]",
+		"token": "[Trello Token]",
+		"organisation": "[Your organisation shortname]"
+	},
+	"migration": [
+		{
+			"pivotal": "[Pivotal Project Name]",
+			"trello": "[Trello Board Name]"
+		}
+	]
+}

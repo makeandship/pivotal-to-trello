@@ -1,0 +1,20 @@
+{
+  "name": "migrate-pivotal-to-trello",
+  "version": "1.0.0",
+  "description": "Convert pivotal projects to trello boards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "form-data": "^1.0.0-rc4",
+    "hyperquest": "^1.3.0",
+    "lodash": "^4.11.1",
+    "node-trello": "^1.1.2",
+    "pivotal": "^0.2.0",
+    "pivotaltracker": "^0.1.4"
+  }
+}
